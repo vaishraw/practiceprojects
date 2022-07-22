@@ -7,7 +7,7 @@ public class validation {
 		while(true) {
 		System.out.println("Enter E-mail Id:");
 		Scanner sc=new Scanner(System.in);
-		String x=sc.nextLine();
+		String x=sc.next();
 		/*for(int i=0;i<=3;i++) {
 			//System.out.println(str[i]);
 			if(str[i].equals(x)) {
